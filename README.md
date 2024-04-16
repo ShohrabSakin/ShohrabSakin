@@ -30,7 +30,7 @@
 
 <h3 align="left">
   
-  Connect with me <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" 
+  How to reach me <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" 
   width="60"></a>
   
 </h3>
@@ -42,7 +42,7 @@
   
 </p>
 
-<h3 align="left"> Languages and Tools </h3>
+<h3 align="left"> Languages and Tools 🛠️ </h3>
 
 <div align="center">
 	<img width="60" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>   &nbsp;
@@ -65,10 +65,125 @@
 	<img width="60" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/> 
 </div>
 
-<br/>
+<br/> 
 
 <!-- Most used languages ratings -->
    
 	
- <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shohrabsakin&show_icons=true&locale=en&layout=compact" alt="shohrabsakin" /> 
-</p>
+ <div align="center"> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shohrabsakin&show_icons=true&locale=en&layout=compact" alt="shohrabsakin" width='400' height='300' /> 
+</div>   <br/>
+
+
+<!-- About Me -->
+
+<details>
+  <summary><h3>About Me💁‍♂️</h3></summary>
+  <br/> &nbsp; &nbsp;
+    <div align="center">
+	    <b> Hello! My name is Sakin............ [Write your bio later]</b>
+    </div>
+</details> 
+
+
+
+<!-- Profile Views -->
+
+<details>
+  <summary><h3>Profile Views 👁️</h3></summary>
+  <br/> &nbsp; &nbsp;
+
+   <div align="center">
+	   <img  src="https://komarev.com/ghpvc/?username=ShohrabSakin&label=💁‍♂️%20Profile%20views&color=brightgreen&style=flat" alt="watching_count" width='300' height='50' /> &nbsp; &nbsp; &nbsp; 
+	   <img  src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" width='300' height='230' />
+   </div>
+</details>
+
+
+
+<!-- My GitHub Stats📊 -->
+
+<details>
+  <summary><h3>My GitHub Stats📊</h3></summary> 
+    <br/>
+ <div align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shohrabsakin&show_icons=true&locale=en" alt="shohrabsakin"  /> 
+   </div>
+</details>
+
+
+
+<!-- My GitHub Streaks 🔥 -->
+
+<details>
+  <summary><h3>My GitHub Streaks 🔥</h3></summary> 
+    <br/>
+ <div align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohrabsakin&" alt="shohrabsakin" />
+   </div>
+</details>
+
+
+<!-- My GitHub Trophy 🏆 -->
+
+<details>
+  <summary><h3>My GitHub Trophy 🏆</h3></summary> 
+    <br/>
+ <div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=shohrabsakin" alt="shohrabsakin" /> 
+   </div>
+</details>
+
+
+
+<!-- My GitHub Repository statistics 📈 -->
+
+<details>
+  <summary><h3>My GitHub Repository statistics 📈</h3></summary> 
+    <br/>
+ <div align="center">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShohrabSakin&theme=github&utcOffset=-5">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShohrabSakin&theme=github"/> <br/>
+   <img src="https://myreadme.vercel.app/api/embed/ShohrabSakin?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+   </div>
+</details>
+
+
+
+<!--  Top Contributed Repository 🔝 -->
+
+<details>
+  <summary><h3>Top Contributed Repository🔝</h3></summary> 
+    <br/> 
+ 
+  ![](https://github-contributor-stats.vercel.app/api?username=ShohrabSakin&limit=5&theme=chalk&combine_all_yearly_contributions=true) 
+	 
+</details>
+
+
+
+<!-- My GitHub Followers👨‍👩‍👧‍👦 -->
+
+<details>
+  <summary><h3>My GitHub Followers 👨‍👩‍👧‍👦</h3></summary> 
+    <br/>
+ <div align="center">
+	 <img alt="followers" src="https://img.shields.io/github/followers/ShohrabSakin?label=Followers&style=social" width='300' height='50'/>
+	 
+   </div>
+</details>
+
+
+---
+
+### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   Made with a lot of ❤️❤️ by [💁‍♂️SAKIN ✌️](https://github.com/ShohrabSakin)
+
+---
+
+
+
+
+
+
+
+
+
