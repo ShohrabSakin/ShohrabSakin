@@ -22,6 +22,8 @@
 - 🤝 I’m looking for help with market-defining projects
 
 - 💬 Ask me anything: I'm fully open to new projects, collaborations or ideas! 😊
+
+- 👨‍💻 Let's collaborate and build something amazing together
   
 - 📬 How to Reach Me: [Let's get in touch!](https://www.linkedin.com/in/shohrabsharif/)
 
