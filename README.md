@@ -15,7 +15,7 @@
 <img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
 
-- 💻 I’m currently working on improving my Skills 
+- 👨‍💻 I’m currently working on improving my Skills 
 
 - 💁‍♂️ I’m looking to collaborate on Open source Community.
 
@@ -23,11 +23,11 @@
 
 - 💬 Ask me anything: I'm fully open to new projects, collaborations or ideas! 😊
 
-- 👨‍💻 Let's collaborate and build something amazing together
+- 🛠️ Let's collaborate and build something amazing together
   
 - 📬 How to Reach Me: [Let's get in touch!](https://www.linkedin.com/in/shohrabsharif/)
 
-- ⚡ Fun fact: Others turn coffee into code; I prefer Shopping 🛍️ or hangout 🛤️
+- 🎉 Fun fact: Others turn coffee into code; I prefer Shopping 🛍️ or hangout 🛤️
 
 
 <h3 align="left">
