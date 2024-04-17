@@ -97,9 +97,15 @@
 <details>
   <summary><h3>About Me💁‍♂️</h3></summary>
   <br/> &nbsp; &nbsp;
-    <div align="center">
-	    <b> Hello! My name is Sakin............ [Write your bio later]</b>
-    </div>
+    <p align="left">
+	    <b> 🙋‍♂️ Hello there ! My name is Md. Shohrab Sharif. I’ve done Diploma on 🌍 Web Application Development with PHP and Frameworks from ISDB-BISEW IT Scholarship Program. I’m passionate about continuously improving my skills and contributing to meaningful projects with a solid foundation in web development principles. With a blend of creativity and technical skills, I'm excited to make my mark in the world of web development.💁‍♂️
+     
+ 
+I am eager to make a positive impact and grow professionally in the 👨‍💻 tech industry. With a passion for technology, I enjoy the challenge of turning complex ideas into simple, elegant solutions that make an impact.
+
+I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️ With a demonstrated ability to work collaboratively and deliver results, I am well-positioned to take on new challenges and make valuable contributions to any team.
+	    </b>
+    </p>
 </details> 
 
 
