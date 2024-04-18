@@ -32,8 +32,7 @@
 
 <h3 align="left">
   
-  How to reach me <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" 
-  width="60"></a>
+  How to reach me  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
   
 </h3>
 
