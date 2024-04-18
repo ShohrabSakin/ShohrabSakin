@@ -200,7 +200,7 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
 <!-- A cool lighting pic  -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Made with a lot of ❤️❤️ by [💁‍♂️SAKIN ✌️](https://github.com/ShohrabSakin)
+### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Made with a lot of ❤️❤️❤️ by [💁‍♂️SAKIN ✌️](https://github.com/ShohrabSakin)
 
 <!-- A cool lighting pic  -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
