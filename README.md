@@ -97,7 +97,7 @@
   <summary><h3>About Me💁‍♂️</h3></summary>
   <br/> &nbsp; &nbsp;
     <p align="left">
-	    <b> 🙋‍♂️ Hello there ! My name is Md. Shohrab Sharif. I’ve done Diploma on 🌍 Web Application Development with PHP and Frameworks from ISDB-BISEW IT Scholarship Program. I’m passionate about continuously improving my skills and contributing to meaningful projects with a solid foundation in web development principles. With a blend of creativity and technical skills, I'm excited to make my mark in the world of web development.💁‍♂️
+	    <b> 🙋‍♂️ Hello there ! My name is Md. Shohrab Sharif. I’ve done my Professional Diploma on 🌍 Web Application Development with PHP and Frameworks from ISDB-BISEW IT Scholarship Program. I’m passionate about continuously improving my skills and contributing to meaningful projects with a solid foundation in web development principles. With a blend of creativity and technical skills, I'm excited to make my mark in the world of web development.💁‍♂️
      
  
 I am eager to make a positive impact and grow professionally in the 👨‍💻 tech industry. With a passion for technology, I enjoy the challenge of turning complex ideas into simple, elegant solutions that make an impact.
