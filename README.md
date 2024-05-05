@@ -174,13 +174,15 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
 
 <!--  Top Contributed Repository 🔝 -->
 
-<details>
+ <details>
   <summary><h3>Top Contributed Repository🔝</h3></summary> 
     <br/> 
  
-  ![](https://github-contributor-stats.vercel.app/api?username=ShohrabSakin&limit=5&theme=flat&combine_all_yearly_contributions=true) 
+ ![](https://github-contributor-stats.vercel.app/api?username=ShohrabSakin&limit=5&theme=flat&combine_all_yearly_contributions=true) 
+
+
 	 
-</details>
+</details> 
 
 
 
