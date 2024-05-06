@@ -164,10 +164,12 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
   <summary><h3>My GitHub Repository statistics 📈</h3></summary> 
     <br/>
  <div align="center">
+	 
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShohrabSakin&theme=github&utcOffset=-5">
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShohrabSakin&theme=github"/> <br/>
-   <img src="https://myreadme.vercel.app/api/embed/ShohrabSakin?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-   </div>
+   <img src="https://myreadme.vercel.app/api/embed/ShohrabSakin?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />  
+	 
+  </div>
 </details>
 
 
