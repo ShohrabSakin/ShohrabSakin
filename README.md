@@ -157,6 +157,16 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
 </details>
 
 
+<!--  My GitHub Acitivity Graph 📈 -->
+
+ <details>
+  <summary><h3>My GitHub Acitivity Graph 📈</h3></summary> 
+    <br/> 
+ 
+![SAKIN' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShohrabSakin&bg_color=62b7ad&custom_title=💁‍♂️SAKIN'S%20GitHub%20Activity%20Graph✌️📈&color=ffffff&line=f7f7f7&point=144a61&area=true&hide_border=true) 
+ 
+</details> 
+
 
 <!-- My GitHub Repository statistics 📈 -->
 
