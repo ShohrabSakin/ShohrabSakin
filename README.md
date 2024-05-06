@@ -129,7 +129,7 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
   <summary><h3>My GitHub Stats📊</h3></summary> 
     <br/>
  <div align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shohrabsakin&show_icons=true&locale=en" alt="shohrabsakin"  /> 
+   <img src="https://github-readme-stats.vercel.app/api?username=ShohrabSakin&show_icons=true&rank_icon=percentile&include_all_commits=true" /> 
    </div>
 </details>
 
