@@ -168,10 +168,10 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
 </details> 
 
 
-<!-- My GitHub Repository statistics 📈 -->
+<!-- My GitHub Repository Statistics  -->
 
 <details>
-  <summary><h3>My GitHub Repository statistics 📈</h3></summary> 
+  <summary><h3>My GitHub Repository statistics 📉</h3></summary> 
     <br/>
  <div align="center">
 	 
